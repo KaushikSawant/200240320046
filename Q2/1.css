@@ -1,0 +1,20 @@
+body{
+    background: url(dania.jpg);
+}
+
+.mainbox{
+    font-style: italic;
+    font-size: 20px;
+}
+
+.formbox{
+    border: 3px solid black;
+    border-radius: 30px;
+    height: 300px;
+    width: 400px;
+}
+
+.ans{
+    font-style: italic;
+    
+}
